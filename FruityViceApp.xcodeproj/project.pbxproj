@@ -12,6 +12,7 @@
 		A2BB4CA528BEDDE900D6B780 /* FruityVice in Frameworks */ = {isa = PBXBuildFile; productRef = A2BB4CA428BEDDE900D6B780 /* FruityVice */; };
 		A2BB4CA728BEDE3700D6B780 /* FruitListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2BB4CA628BEDE3700D6B780 /* FruitListView.swift */; };
 		A2BB4CA928BEDE5100D6B780 /* FruitListViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2BB4CA828BEDE5100D6B780 /* FruitListViewModel.swift */; };
+		A2DB66BE28BEE6F0002DF829 /* Settings.bundle in Resources */ = {isa = PBXBuildFile; fileRef = A2DB66BD28BEE6F0002DF829 /* Settings.bundle */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		A2BB4C9928BEDD8000D6B780 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A2BB4CA628BEDE3700D6B780 /* FruitListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitListView.swift; sourceTree = "<group>"; };
 		A2BB4CA828BEDE5100D6B780 /* FruitListViewModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FruitListViewModel.swift; sourceTree = "<group>"; };
+		A2DB66BD28BEE6F0002DF829 /* Settings.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = Settings.bundle; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			isa = PBXGroup;
 			children = (
 				A2BB4C9528BEDD7F00D6B780 /* FruityViceApp.swift */,
+				A2DB66BD28BEE6F0002DF829 /* Settings.bundle */,
 				A2BB4CA628BEDE3700D6B780 /* FruitListView.swift */,
 				A2BB4CA828BEDE5100D6B780 /* FruitListViewModel.swift */,
 				A2BB4C9928BEDD8000D6B780 /* Assets.xcassets */,
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A2DB66BE28BEE6F0002DF829 /* Settings.bundle in Resources */,
 				A2BB4C9A28BEDD8000D6B780 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
