@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "fruityvice",
+      "kind" : "remoteSourceControl",
+      "location" : "git@github.com:gabrielx4000/FruityVice.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "6b74347a6d3f00446408dc9440841aaa9ef9f75e"
+      }
+    }
+  ],
+  "version" : 2
+}
